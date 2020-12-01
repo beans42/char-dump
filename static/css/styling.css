@@ -1,3 +1,7 @@
+* {
+	-webkit-appearance: none
+}
+
 body {
 	background-color: #111;
 	margin: 10px
